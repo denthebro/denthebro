@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @denthebro
+- 👋 Hi, I’m Deni Mintsaev (denthebro)
 - 👀 I’m interested in C# and Javascript
-- 🌱 I’m currently learning web development
+- 🌱 I am a [WCA](https://www.worldcubeassociation.org/) Quality Assurance Committee (WQAC) member
 - 📫 How to reach me: denimintsaev.com
 
 <!---
